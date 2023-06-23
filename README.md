@@ -6,8 +6,6 @@ This project is a Node.js web application that showcases an organic farm and off
 
 - Intuitive and appealing user interface.
 - Display of products with details such as origin, nutrients, quantity, and price.
-- Functionality to add products to the shopping cart.
-- Order processing and checkout.
 
 ## Technologies Used
 
@@ -29,7 +27,7 @@ This project is a Node.js web application that showcases an organic farm and off
 1. Clone this repository: `git clone <REPOSITORY_URL>`.
 2. Install the dependencies using npm: npm install
 3. Start the program by using command: npm start
-4. Open the `index.html` file in your web browser.
+4. Open http://localhost:8000 in your web browser.
 5. Explore the different products on the overview page (`overview.html`).
 6. Click on a product to view additional details on the product page (`product.html`).
 
